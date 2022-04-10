@@ -7,8 +7,6 @@ React Js | Firebase Instagram Clone
 
 https://thegram-schidobvu.web.app/
 
-![Instagram Clone Screen Overview](https://user-images.githubusercontent.com/102816823/162641949-71e2614f-b466-458d-9b5b-c89182b0622f.JPG)
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)]
@@ -25,3 +23,6 @@ https://thegram-schidobvu.web.app/
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]
 [![website](./img/instagram-dark.svg)]
+=======
+
+![Overview- IG Clone](https://user-images.githubusercontent.com/102816823/162642502-a6ef5229-7b90-4d46-9a59-70d841a9ca28.JPG)
