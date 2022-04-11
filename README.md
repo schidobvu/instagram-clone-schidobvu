@@ -12,9 +12,9 @@ https://thegram-schidobvu.web.app/
 
 ---
 
-### Tools Used
 
-<img src="https://user-images.githubusercontent.com/102816823/162646459-95822ae8-9470-4252-9210-cdeddde518af.png" height="50" >
+
+### Tools Used <img src="https://user-images.githubusercontent.com/102816823/162646459-95822ae8-9470-4252-9210-cdeddde518af.png" height="50" >
 <img src="https://user-images.githubusercontent.com/102816823/162646493-cb05f65d-1ef0-4e20-bcb6-596cbae6a018.png" height="50" >
 <img src="https://user-images.githubusercontent.com/102816823/162646513-3c78e120-f46a-42ec-af01-c47b2b25618a.png"  height="50">
 <img src="https://user-images.githubusercontent.com/102816823/162646545-32191a7e-5e37-4577-b968-b3af1d80a714.png"  height="50">
