@@ -96,6 +96,7 @@ function StoryBoard() {
             backgroundRepeat: "no-repeat",
           }}
         >
+          {/* MAIN STORY WRAP */}
           <StoryModalContent>
             <HeaderContent>
               <img src={currentStory?.data().profileImg} alt="" />
@@ -104,6 +105,8 @@ function StoryBoard() {
                 {moment(currentStory?.data().timestamp?.toDate()).calendar()}
               </span>
             </HeaderContent>
+
+            {/* Image switch arrows */}
             <ArrowsWrap>
               {prevArrow && (
                 <ChevronLeftIcon

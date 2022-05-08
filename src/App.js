@@ -96,6 +96,9 @@ function App() {
       ) : (
         <>
           <Header />
+
+          {/* Body Contents */}
+
           <BodyWrapper>
             <Routes>
               <Route exact path="/" element={<Feed />} />
