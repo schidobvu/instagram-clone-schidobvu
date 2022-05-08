@@ -96,7 +96,6 @@ function App() {
       ) : (
         <>
           <Header />
-
           {/* Body Contents */}
 
           <BodyWrapper>
